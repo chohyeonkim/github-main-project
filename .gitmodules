@@ -1,0 +1,3 @@
+[submodule "github-sub-module"]
+	path = github-sub-module
+	url = https://github.com/chohyeonkim/github-sub-module.git
